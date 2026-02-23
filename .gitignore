@@ -1,5 +1,6 @@
 __pycache__/
-*.pyc
+*.py[cod]
 .vscode/
 .idea/
-*.log
+.DS_Store
+Thumbs.db
